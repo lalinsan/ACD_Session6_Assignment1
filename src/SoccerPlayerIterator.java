@@ -50,7 +50,7 @@ public class SoccerPlayerIterator {
 				while (iterator.hasNext()) //Execute code while there is a next element on the ArrayList 
 				{
 					Object listElement = iterator.next(); //Assign each Element on the List to to listElement variable
-					System.out.println(listElement); //Assign each Element on the List to to listElement variable
+					System.out.println(listElement); //Prints out the list of items
 				}
 						
 			}
